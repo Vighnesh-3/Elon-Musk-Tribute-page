@@ -34,12 +34,15 @@
     color: black;
     background-color: grey;
     height: 520px;
-    width: 1477px;
+    width: 100%;
   }
+section{
+    width:100%;
+}
 a{
     color: black;
 }
 .foot{
     /* height: 400px; */
-    width: 1477px;
+    width: 100%;
 }
