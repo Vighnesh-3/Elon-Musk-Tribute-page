@@ -33,8 +33,13 @@
     /* background-color: gray; */
     color: black;
     background-color: grey;
+    height: 520px;
+    width: 1477px;
   }
 a{
     color: black;
-    
+}
+.foot{
+    /* height: 400px; */
+    width: 1477px;
 }
