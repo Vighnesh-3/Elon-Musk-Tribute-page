@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    /* box-sizing: border-box; */
+    /* border-color: yellow; */
+}
+.container{
+    background-color: black;
+    color: white;
+    height: 400px;
+    width: 1477px;
+}
+.img{
+    position: absolute;
+    /* display: none; */
+    top: 80px;
+    left: 20px;
+    /* height: auto;
+    width: 267px; */
+    width: 400px;
+    /* height: 253.51; */
+    height: 316px;
+}
+.text{
+    position: absolute;
+    top: 200px;
+    left: 600px;
+}
+#tribute-info {
+    /* background-color: black; */
+    /* background: rgba(124, 124, 124, 0.692); */
+    /* margin: 0% 5% 5% 5%; */
+    /* background-color: gray; */
+    color: black;
+    background-color: grey;
+  }
+a{
+    color: black;
+    
+}
